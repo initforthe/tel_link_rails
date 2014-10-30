@@ -30,7 +30,7 @@ tel_link '+44 20 8123 4567', 'Telephone'
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/tel_link_rails/fork )
+1. Fork it ( https://github.com/initforthe/tel_link_rails/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

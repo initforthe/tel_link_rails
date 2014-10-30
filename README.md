@@ -1,6 +1,6 @@
 # TelLinkRails
 
-TODO: Write a gem description
+Creates a tel: link tag to the specified `number`, which is also used as the name of the link unless `name` is specified. Additional HTML attributes for the link can be passed in `html_options`.
 
 ## Installation
 
@@ -20,7 +20,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+tel_link '+44 20 8123 4567'
+# => <a href="tel:+44-20-8123-4567">+44 20 8123 4567</a>
+
+tel_link '+44 20 8123 4567', 'Telephone'
+# => <a href="tel:+44-20-8123-4567">Telephone</a>
+```
 
 ## Contributing
 

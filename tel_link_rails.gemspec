@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tom@initforthe.com"]
   spec.summary       = %q{Rails telephone link helper}
   spec.description   = %q{Rails telephone link helper}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/simmerz/tel_link_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

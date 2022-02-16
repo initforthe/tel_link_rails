@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tel_link_rails (0.0.2)
+    tel_link_rails (0.0.3)
       actionview
 
 GEM
